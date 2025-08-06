@@ -16,5 +16,16 @@ Binding it as an Application
     >>>my-app\Scripts\activate
 3. Installl pyinstaller library
     >>>pip install pyinstaller
+    If you don't have pip installed, errors will pop-up 👆 so please fast install pip first. Note: Help from Internet.
 4. Bind the app
-    >>>pyinstall -F -i="image.ico"
+    >>>pyinstall -F -i="image.ico" main.
+
+   Alright, now a new folder named "build" shows up and another named "dist"
+5. Open the folder named "dist" and cut the new file "main.exe" to the main folder as the "image.ico" image file. This is because the image file will not be found and errors will evolve.
+
+    Once you have followed all that, you are free to go!
+
+   If you wish to learn Web Developement, Subscribe to my Channel;
+   @CodewareStudio https://www.youtube.com/channel/UC55whaK7pJbWeJjibBHfeJw
+
+   Enjoy Coding.!!!
